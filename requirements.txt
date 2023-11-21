@@ -1,0 +1,15 @@
+joblib
+nltk
+numpy
+pandas
+regex
+scikit_learn
+scipy
+sentence_transformers
+sentencepiece
+six
+spacy
+tensorflow
+torch
+tqdm
+transformers
