@@ -16,8 +16,10 @@ def load_requirements() -> list:
 
 setup(
     name='optimus',
-    version='',
-    packages=['optimus', 'optimus.pytorch_transformers', 'optimus.pytorch_transformers.tests'],
+    version='0.1',
+    packages=['optimus', 'optimus.examples', 'optimus.examples.big_ae', 'optimus.examples.big_ae.modules',
+              'optimus.examples.big_ae.modules.encoders', 'optimus.pytorch_transformers',
+              'optimus.pytorch_transformers.tests'],
     url='',
     license='',
     author='',
